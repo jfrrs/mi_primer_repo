@@ -1,2 +1,2 @@
 # mi_primer_repo
-ejemplo clases
+Primer repo en Git Hub
